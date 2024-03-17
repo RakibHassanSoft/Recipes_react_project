@@ -1,0 +1,80 @@
+[
+    {
+        "recipe_id": "001",
+        "recipe_name": "Spicy Basil Chicken",
+        "recipe_image": "https://th.bing.com/th/id/OIP.jJI3bTJ-diLfKDHb9-vwmwHaE8?rs=1&pid=ImgDetMain",
+        "short_description": "A flavorful Thai-inspired stir-fry dish with tender chicken and aromatic basil leaves.",
+        "ingredients_number":"4",
+        "ingredients": [
+            "550 g chicken",
+            "120 ml soy sauce",
+            "200 g basil leaves",
+            "400 g mushroom"
+        ],
+        "preparing_time": "25 min",
+        "calories": "320 calories"
+    },
+    {
+        "recipe_id": "002",
+        "recipe_name": "Quinoa with Fish",
+        "recipe_image": "https://1.bp.blogspot.com/-yeisdvEQ2xU/XactF81Li9I/AAAAAAAAV0o/vJj6-COgcJcn9RVD_1ckfdPqSyq94UvHQCEwYBhgL/s1600/DSC_1292.JPG",
+        "short_description": "A nutritious salad featuring colorful roasted vegetables and protein-packed quinoa.",
+        "ingredients_number":"4",
+        "ingredients": [
+            "1 cup quinoa",
+            "1/4 cup olive oil",
+            "2 tbsp balsamic vinegar",
+            "Salt and pepper to taste"
+        ],
+        "preparing_time": "40 min",
+        "calories": "250 calories"
+    },
+    {
+        "recipe_id": "003",
+        "recipe_name": "Creamy Mushroom Omlet",
+        "recipe_image": "https://www.timeoutdubai.com/cloud/timeoutdubai/2022/08/14/Saigon.jpg",
+        "short_description": "A comforting Italian dish made with creamy Arborio rice and flavorful mushrooms.",
+        "ingredients_number":"4",
+        "ingredients": [
+            "1 cup Arborio rice",
+            "200 g mushrooms",
+            "2 tbsp butter",
+            "Salt and pepper to taste"
+        ],
+        "preparing_time": "45 min",
+        "calories": "380 calories"
+    },
+    {
+        "recipe_id": "004",
+        "recipe_name": "Veggie  pizza with Tofu",
+        "recipe_image": "https://th.bing.com/th/id/OIP.W9RFknwcGfgpMFJFhQurjgAAAA?w=474&h=266&rs=1&pid=ImgDetMain",
+        "short_description": "A colorful and nutritious stir-fry featuring tofu and a variety of fresh vegetables.",
+        "ingredients_number":"4",
+        "ingredients": [
+            "300 g firm tofu",
+            "1 red bell pepper",
+            "2 green onions",
+            "Cooked rice for serving"
+        ],
+        "preparing_time": "30 min",
+        "calories": "280 calories"
+    },
+    {
+        "recipe_id": "005",
+        "recipe_name": "Salmon with Asparagus",
+        "recipe_image": "https://th.bing.com/th/id/R.99a429149891b8331ab9a4d9dcdeca89?rik=ZFGjK2aI0XNcog&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f08%2fFresh-hot-delicious-food-wallpaper.jpg&ehk=YcpVrjnOnSm%2fhnTl3VFd3ve98wBRCKiyDEZj%2fJ43ix8%3d&risl=&pid=ImgRaw&r=0",
+        "short_description": "A healthy and delicious dish featuring tender grilled salmon fillets and roasted asparagus.",
+        "ingredients_number":"5",
+        "ingredients": [
+            "4 salmon fillets",
+            "4 salmon fillets",
+            "1 bunch asparagus",
+            "2 cloves garlic",
+            "Salt and pepper to taste"
+        ],
+        "preparing_time": "20 min",
+        "calories": "320 calories"
+    }
+]
+
+

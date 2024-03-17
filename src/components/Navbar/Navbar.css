@@ -1,0 +1,38 @@
+/* Navbar.css */
+
+@media (max-width: 768px) {
+    .navbar {
+      flex-direction: column; /* Stack items vertically on small screens */
+      align-items: center;  /* Center items horizontally */
+    }
+  
+    .navbar-start,
+    .navbar-center,
+    .navbar-end {
+      width: 100%;  /* Make sections full width on small screens */
+    }
+  
+    .navbar-start .dropdown,
+    .navbar-end .dropdown {
+      display: none;  /* Hide dropdown menus initially on small screens */
+    }
+  
+    .btn-ghost.lg:hidden {  /* Show hamburger menu on small screens */
+      display: block;
+    }
+  
+    .menu.menu-sm.dropdown-content {
+      display: none;  /* Initially hide dropdown content on small screens */
+    }
+  }
+  
+  @media (min-width: 768px) {
+    .navbar {
+      flex-direction: row; /* Revert to horizontal layout on larger screens */
+    }
+  
+    .btn-ghost.lg:hidden {  /* Hide hamburger menu on larger screens */
+      display: none;
+    }
+  }
+  
